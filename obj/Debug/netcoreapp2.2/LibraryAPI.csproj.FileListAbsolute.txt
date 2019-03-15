@@ -1,0 +1,14 @@
+/home/stephen/College/EAD2App/LibraryAPI/bin/Debug/netcoreapp2.2/LibraryAPI.deps.json
+/home/stephen/College/EAD2App/LibraryAPI/bin/Debug/netcoreapp2.2/LibraryAPI.runtimeconfig.json
+/home/stephen/College/EAD2App/LibraryAPI/bin/Debug/netcoreapp2.2/LibraryAPI.runtimeconfig.dev.json
+/home/stephen/College/EAD2App/LibraryAPI/bin/Debug/netcoreapp2.2/LibraryAPI.dll
+/home/stephen/College/EAD2App/LibraryAPI/bin/Debug/netcoreapp2.2/LibraryAPI.pdb
+/home/stephen/College/EAD2App/LibraryAPI/obj/Debug/netcoreapp2.2/LibraryAPI.csprojAssemblyReference.cache
+/home/stephen/College/EAD2App/LibraryAPI/obj/Debug/netcoreapp2.2/LibraryAPI.csproj.CoreCompileInputs.cache
+/home/stephen/College/EAD2App/LibraryAPI/obj/Debug/netcoreapp2.2/LibraryAPI.RazorAssemblyInfo.cache
+/home/stephen/College/EAD2App/LibraryAPI/obj/Debug/netcoreapp2.2/LibraryAPI.RazorAssemblyInfo.cs
+/home/stephen/College/EAD2App/LibraryAPI/obj/Debug/netcoreapp2.2/LibraryAPI.AssemblyInfoInputs.cache
+/home/stephen/College/EAD2App/LibraryAPI/obj/Debug/netcoreapp2.2/LibraryAPI.AssemblyInfo.cs
+/home/stephen/College/EAD2App/LibraryAPI/obj/Debug/netcoreapp2.2/LibraryAPI.RazorTargetAssemblyInfo.cache
+/home/stephen/College/EAD2App/LibraryAPI/obj/Debug/netcoreapp2.2/LibraryAPI.dll
+/home/stephen/College/EAD2App/LibraryAPI/obj/Debug/netcoreapp2.2/LibraryAPI.pdb
