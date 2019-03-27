@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace LibraryAPI.Models
+namespace LibraryAPIService.Models
 {
     public class BookContext : DbContext
     {
@@ -9,6 +9,25 @@ namespace LibraryAPI.Models
         {
         }
 
-        public DbSet<BookContext> Books { get; set; }
+        public DbSet<Book> Book { get; set; }
+        //public DbSet<Author> Authors { get; set; }
+
+/*
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<BookAuthor>()
+                .HasKey(a => new { a.AuthorID, a.ISBN });
+
+            modelBuilder.Entity<BookAuthor>()
+                .HasOne(b => b.Author)
+                .WithMany(bk => bk.BookAuthors)
+                .HasForeignKey(b => b.AuthorID);
+
+            modelBuilder.Entity<BookAuthor>()
+                .HasOne(b => b.Book)
+                .WithMany(bk => bk.BookAuthors)
+                .HasForeignKey(b => b.ISBN);
+        }
+*/
     }
 }

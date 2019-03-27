@@ -10,10 +10,10 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using LibraryAPIService.Models;
 using Microsoft.EntityFrameworkCore;
-using LibraryAPI.Models;
 
-namespace LibraryAPI
+namespace LibraryAPIService
 {
     public class Startup
     {
@@ -28,8 +28,8 @@ namespace LibraryAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<BookContext>(opt =>
-                opt.UseInMemoryDatabase("Book"));
-
+                opt.UseSqlServer(
+                    Configuration.GetConnectionString("BookContext")));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 

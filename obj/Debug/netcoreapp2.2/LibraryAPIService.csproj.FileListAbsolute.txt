@@ -1,0 +1,14 @@
+C:\Users\Stephen Geaney\Documents\LibraryAPIService\bin\Debug\netcoreapp2.2\LibraryAPIService.deps.json
+C:\Users\Stephen Geaney\Documents\LibraryAPIService\bin\Debug\netcoreapp2.2\LibraryAPIService.runtimeconfig.json
+C:\Users\Stephen Geaney\Documents\LibraryAPIService\bin\Debug\netcoreapp2.2\LibraryAPIService.runtimeconfig.dev.json
+C:\Users\Stephen Geaney\Documents\LibraryAPIService\bin\Debug\netcoreapp2.2\LibraryAPIService.dll
+C:\Users\Stephen Geaney\Documents\LibraryAPIService\bin\Debug\netcoreapp2.2\LibraryAPIService.pdb
+C:\Users\Stephen Geaney\Documents\LibraryAPIService\obj\Debug\netcoreapp2.2\LibraryAPIService.csprojAssemblyReference.cache
+C:\Users\Stephen Geaney\Documents\LibraryAPIService\obj\Debug\netcoreapp2.2\LibraryAPIService.csproj.CoreCompileInputs.cache
+C:\Users\Stephen Geaney\Documents\LibraryAPIService\obj\Debug\netcoreapp2.2\LibraryAPIService.RazorAssemblyInfo.cache
+C:\Users\Stephen Geaney\Documents\LibraryAPIService\obj\Debug\netcoreapp2.2\LibraryAPIService.RazorAssemblyInfo.cs
+C:\Users\Stephen Geaney\Documents\LibraryAPIService\obj\Debug\netcoreapp2.2\LibraryAPIService.AssemblyInfoInputs.cache
+C:\Users\Stephen Geaney\Documents\LibraryAPIService\obj\Debug\netcoreapp2.2\LibraryAPIService.AssemblyInfo.cs
+C:\Users\Stephen Geaney\Documents\LibraryAPIService\obj\Debug\netcoreapp2.2\LibraryAPIService.RazorTargetAssemblyInfo.cache
+C:\Users\Stephen Geaney\Documents\LibraryAPIService\obj\Debug\netcoreapp2.2\LibraryAPIService.dll
+C:\Users\Stephen Geaney\Documents\LibraryAPIService\obj\Debug\netcoreapp2.2\LibraryAPIService.pdb
